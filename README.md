@@ -2,7 +2,7 @@
 
 ## Goals
 
-* [ ] Become comfortable with Python.
+* [x] Become comfortable with Python.
 * [ ] Learn the required data structures and algorithms.
 * [ ] Solve at least **120 problems**.
 * [ ] Practice consistently every day.
@@ -14,22 +14,22 @@
 
 ## Fundamentals
 
-* [*] Variables and Data Types
-* [*] Input and Output
-* [*] Operators
-* [*] Conditional Statements
-* [*] Loops
-* [*] Functions
-* [*] Recursion
-* [ ] Strings
-* [*] Lists
-* [*] Tuples
-* [*] Sets
-* [*] Dictionaries
-* [*] List Comprehensions
-* [*] File Handling
-* [*] OOP
-* [*] Big-O Notation
+* [x] Variables and Data Types
+* [x] Input and Output
+* [x] Operators
+* [x] Conditional Statements
+* [x] Loops
+* [x] Functions
+* [x] Recursion
+* [x] Strings
+* [x] Lists
+* [x] Tuples
+* [x] Sets
+* [x] Dictionaries
+* [x] List Comprehensions
+* [x] File Handling
+* [x] OOP
+* [x] Big-O Notation
 
 ---
 
@@ -154,9 +154,7 @@ Problems Solved: **0 / 10**
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- |
-| ⬜   | ⬜   | ⬜   | ⬜   | ⬜   | ⬜   | ⬜   |
-
-Repeat this table each week.
+| ⬜   | ⬜   | ⬜   | ⬜   | ⬜   | [x]   | ⬜   |
 
 ---
 
