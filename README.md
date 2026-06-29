@@ -160,8 +160,8 @@ Problems Solved: **0 / 10**
 
 # Interview Checklist
 
-* [ ] Comfortable with Python
-* [ ] Arrays
+* [x] Comfortable with Python
+* [x] Arrays
 * [ ] Dictionaries
 * [ ] Stacks
 * [ ] Queues
@@ -176,8 +176,8 @@ Problems Solved: **0 / 10**
 
 # Overall Progress
 
-* [ ] Python
-* [ ] Arrays
+* [x] Python
+* [x] Arrays
 * [ ] Dictionaries
 * [ ] Stacks
 * [ ] Queues
