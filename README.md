@@ -29,7 +29,7 @@ A focused, long-term Data Structures & Algorithms practice repository for interv
 
 ## About
 
-This repository tracks my Data Structures & Algorithms journey. I'm solving problems from multiple platforms (LeetCode, NeetCode, HackerRank, Codeforces) in **Python** to prepare for technical interviews and strengthen fundamental computer science concepts.
+This repository tracks my Data Structures & Algorithms journey. I'm solving problems from multiple platforms (LeetCode, NeetCode, HackerRank, Codeforces) in **Python** to prepare for technical interviews.
 
 **Target:** Solve 120+ problems while building a deep understanding of DSA concepts.
 
@@ -125,21 +125,22 @@ Track solved problems here:
 
 ## Study Workflow
 
-### Daily Routine
+### My Daily Routine
 
-1. **Choose a problem** – Pick from the ROADMAP based on current topic.
-2. **Understand the pattern** – Read related notes before coding.
-3. **Solve independently** – Write your own solution first.
-4. **Optimize** – Review for time/space complexity improvements.
-5. **Document** – Add comments and update progress.
-6. **Reflect** – Note patterns and insights for future problems.
+1. **Choose a problem** – I pick from the ROADMAP based on the current topic.
+2. **Understand the pattern** – I read the related notes before coding.
+3. **Solve independently** – I write my own solution first.
+4. **Optimize** – I review for time/space complexity improvements.
+5. **Document** – I add comments and update progress.
+6. **Reflect** – I note patterns and insights for future problems.
 
-### When Stuck
+### If I'm stuck
 
-1. Check the **notes/** folder for topic patterns.
-2. Review **templates/** for similar problem structures.
-3. Look at similar problems you've solved.
-4. Research the pattern online if needed.
+1. Re-read the relevant file(s) in **notes/** where I record patterns and examples.
+2. Revisit code in **templates/** to see if a reusable structure applies.
+3. Check similar problems I've already solved in this repo for hints.
+4. Do a focused search online for the specific pattern or technique (only after I've tried my approach).
+5. Add a short note in the problem file describing what I tried, what's blocking me, and the next small step to take.
 
 ---
 
@@ -156,10 +157,10 @@ Track solved problems here:
 
 ## Getting Started
 
-1. Read the [ROADMAP.md](ROADMAP.md) to see the learning path.
-2. Start with **Arrays** – check [notes/arrays.md](notes/arrays.md).
+1. Read the [ROADMAP.md](ROADMAP.md) to see my learning path.
+2. Start with **Arrays** – open [notes/arrays.md](notes/arrays.md) to review concepts.
 3. Review relevant templates in **templates/**.
-4. Solve problems and update progress in this README.
+4. Solve problems and update progress in this README and the problem file.
 
 ---
 
