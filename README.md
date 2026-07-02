@@ -8,8 +8,8 @@ A focused, long-term Data Structures & Algorithms practice repository for interv
 
 | Metric | Count |
 |--------|-------|
-| **Total Problems Solved** | 0 / 120+ |
-| **Easy** | 0 |
+| **Total Problems Solved** | 1 / 120+ |
+| **Easy** | 1 |
 | **Medium** | 0 |
 | **Hard** | 0 |
 
@@ -103,7 +103,7 @@ dsa-practice/
 
 | Topic | Status | Notes |
 |-------|--------|-------|
-| Arrays | ⏳ In Progress | 0 problems |
+| Arrays | ✅ In Progress | 1 problem solved; traversal and edge-case reasoning are improving |
 | Hash Maps | ⬜ Not Started | 0 problems |
 | Stacks | ⬜ Not Started | 0 problems |
 | Queues | ⬜ Not Started | 0 problems |
@@ -113,13 +113,34 @@ dsa-practice/
 
 ---
 
+## Recent Progress Update
+
+### Arrays
+- ✅ Contiguous memory intuition
+- ✅ O(1) indexing
+- ✅ O(n) traversal
+- ✅ Big-O: sequential vs nested loops
+- ✅ Big-O: ignoring constant factors
+- ✅ Linear traversal pattern
+- ✅ Running maximum pattern
+- ✅ Edge-case reasoning for traversal problems
+
+### Problems Solved
+- Warm-up / interview-style: Find Maximum Element → Completed
+
+### Current Weak Spots
+- None major so far
+- Minor correction: avoided redundant traversal and fixed incorrect logic
+
+---
+
 ## Problem Tracking
 
 Track solved problems here:
 
 | # | Platform | Problem | Difficulty | Topic | Status |
 |---|----------|---------|------------|-------|--------|
-| 1 | LeetCode | Binary Search | Easy | Arrays | ✅ Completed |
+| 1 | LeetCode | Find Maximum Element | Easy | Arrays | ✅ Completed |
 
 ---
 
@@ -164,5 +185,5 @@ Track solved problems here:
 
 ---
 
-**Last Updated:** 2026-06-30  
+**Last Updated:** 2026-07-01  
 **Repository Status:**  Active
