@@ -140,7 +140,7 @@ Track solved problems here:
 
 | # | Platform | Problem | Difficulty | Topic | Status |
 |---|----------|---------|------------|-------|--------|
-| 1 | LeetCode | Find Maximum Element | Easy | Arrays | ✅ Completed |
+| 1 | - | Find Maximum Element | Easy | Arrays | ✅ Completed |
 
 ---
 
